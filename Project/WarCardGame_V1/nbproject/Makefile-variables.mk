@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=warcardgame
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/warcardgame
+CND_ARTIFACT_NAME_Debug=warcardgame_v_
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/warcardgame_v_
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=warcardgame.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/warcardgame.tar
+CND_PACKAGE_NAME_Debug=warcardgamev!.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/warcardgamev!.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=warcardgame
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/warcardgame
+CND_ARTIFACT_NAME_Release=warcardgame_v_
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/warcardgame_v_
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=warcardgame.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/warcardgame.tar
+CND_PACKAGE_NAME_Release=warcardgamev!.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/warcardgamev!.tar
 #
 # include compiler specific variables
 #
